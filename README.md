@@ -1,2 +1,2 @@
 # sistemaOS
-R3R - Acessoria Imobiliaria
+R3R - Assessoria Imobiliaria
